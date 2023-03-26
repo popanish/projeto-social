@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{
+    background-image: url(/desafios/desafio014/pacote-d013/imagens/fundo-madeira.jpg);
+    position: relative;
+}
+img{
+    display: block;
+    margin: auto;        
+}
+iframe{
+    position: absolute;
+    top: 50px;
+}
