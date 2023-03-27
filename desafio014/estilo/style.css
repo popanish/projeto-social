@@ -27,3 +27,10 @@ main{
     width: 311px;
     background:  url(/desafio014/pacote-d013/imagens/frame-iphone.png) no-repeat;
 }
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 270px;
+    height: 471px;
+}
